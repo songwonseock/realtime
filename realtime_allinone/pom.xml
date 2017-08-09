@@ -8,7 +8,7 @@
 	<version>1.0.0</version>
 	<name>realtime_allinone</name>
 	<url>http://www.egovframe.go.kr</url>
-
+	<!-- git commit test -->
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
